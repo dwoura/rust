@@ -1,0 +1,1 @@
+F:\Code\Rust\TinTin\第三周\student_management_system\target\debug\student_management_system.exe: F:\Code\Rust\TinTin\第三周\student_management_system\src\SMS.rs F:\Code\Rust\TinTin\第三周\student_management_system\src\main.rs
